@@ -17,8 +17,7 @@ ENV/
 # Streamlit cache
 .streamlit/
 
-# Machine Learning model files
-*.pkl
+
 
 # Environment variables
 .env
